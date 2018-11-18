@@ -1,0 +1,12 @@
+{
+  "name": "locateEle",
+  "version": "1.0.0",
+  "description": "A library to locate element by height",
+  "main": "index.js",
+  "author": "Leenam",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-uglify": "^6.0.0"
+  }
+}
